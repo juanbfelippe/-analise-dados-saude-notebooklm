@@ -10,7 +10,7 @@
 
 Link para o notebook desenvolvido neste projeto:
 
-https://notebooklm.google.com/notebook/2b5d9df8-1ff7-4e92-b3d7-714134acb996
+https://notebooklm.google.com/notebook/2b5d9df8-1ff7-4e92-b3d7-714134acb996?pli=1
 
 ---
 

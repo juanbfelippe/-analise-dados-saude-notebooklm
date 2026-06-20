@@ -6,6 +6,14 @@
 
 ---
 
+## 🔗 NotebookLM
+
+Link para o notebook desenvolvido neste projeto:
+
+https://notebooklm.google.com/notebook/2b5d9df8-1ff7-4e92-b3d7-714134acb996
+
+---
+
 ## 🎯 Objetivos
 
 Este projeto tem como objetivo estudar a importância da análise de dados na área da saúde e compreender como as informações podem auxiliar hospitais e clínicas na tomada de decisões mais eficientes.
